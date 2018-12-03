@@ -10,6 +10,7 @@
 | 31  | [Verify that gas pricing is same in Solidity stepper and JS stepper](https://github.com/leapdao/solEVM-enforcer/issues/22) | R&D | <nobr>1440 DAI</nobr> | Approved | @kosta |
 | 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | R&D | <nobr>720 DAI</nobr> | Approved | @johba |
 | 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | General | <nobr>570 DAI</nobr> | Approved | @jk |
+| 45  | [SolEVM verifier](https://github.com/leapdao/leapdao-bounties/issues/33) | General | <nobr>??? DAI</nobr> | Approved |  |
 | 43  | [Integration Tests](https://github.com/leapdao/leapdao-bounties/issues/26) | General | <nobr>900 DAI</nobr> | Approved | @troggy |
 
 ## Bounties in Progress
