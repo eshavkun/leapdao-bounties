@@ -12,6 +12,7 @@
 | 32  | [Enable contract mocks for CALL OP-codes in solEVM](https://github.com/leapdao/solEVM-enforcer/issues/23) | R&D | <nobr>720 DAI</nobr> | Approved | @johba |
 | 34  | [Enable Confidence Vote for Governance](https://github.com/leapdao/token-utilities/issues/9) | General | <nobr>570 DAI</nobr> | Approved | @jk |
 | 43  | [Integration Tests](https://github.com/leapdao/leapdao-bounties/issues/26) | General | <nobr>900 DAI</nobr> | Approved | @troggy |
+| 44  | [Governance with Voting UI](https://github.com/leapdao/bridge-ui/issues/60)  | General | <nobr>900 DAI</nobr> | Approved |  |
 
 ## Bounties in Progress
 
